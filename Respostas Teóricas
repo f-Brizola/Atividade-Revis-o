@@ -16,4 +16,11 @@ Os Principais fundamentos são: Herança, Encapsulamento, Abstração e Polimorf
 
 8- O método Main é o ponto de entrada de um programa executável, é onde o controle do programa começa e termina.
 
-9-
+9- A passagem de parâmetros é implementada por cópia, tendo em mente que os parâmetros são limitados a ponteiros para objetos.
+
+10- Public pode ser acessado por qualquer objeto e/ou classe presente no mesmo projeto. 
+    Private somente pode ser acessado por objetos da mesma classe.
+    Protected : o acesso é limitado à classe que os contém ou aos tipos derivados da classe que os contém.
+
+11- Quando usamos this em um objeto, estamos nos referindo à atual instância de um objeto, referindo-se a ele mesmo.
+    Nós precisamos guardar as propriedades em this para garantir que possamos nos lembrar delas futuramente.
