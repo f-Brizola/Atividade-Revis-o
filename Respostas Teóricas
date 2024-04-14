@@ -12,4 +12,8 @@ Os Principais fundamentos são: Herança, Encapsulamento, Abstração e Polimorf
 6- Métodos de instancia inicializam as propriedades do objeto e prepará para uso, enquanto o método estático garante que somente haverá uma determinado atributo ou
    método disponível em memória para ser acessado de várias instâncias da mesma classe.
 
-7-
+7- A coesão é o grau com o qual um módulo tem uma responsabilidade única e bem definida. O acoplamento é o grau com o qual um módulo depende de outros módulos para seu funcionamento.
+
+8- O método Main é o ponto de entrada de um programa executável, é onde o controle do programa começa e termina.
+
+9-
