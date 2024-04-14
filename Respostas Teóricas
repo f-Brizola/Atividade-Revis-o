@@ -5,5 +5,7 @@ Os Principais fundamentos são: Herança, Encapsulamento, Abstração e Polimorf
 
 3- Atributos de uma classe só devem ser acessados por meio de seus métodos. O estado de um objeto não deve ser acessado diretamente, mas sim por intermédio de métodos de acesso.
 
-4-
+4- Objeto trata-se da instância de uma classe e uma classe e um modelo para criação de objetos.
+
+5-
 
