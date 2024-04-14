@@ -9,5 +9,7 @@ Os Principais fundamentos são: Herança, Encapsulamento, Abstração e Polimorf
 
 5- Um método são as ações da classe, um método construtor pode ser utilizado para inicializar os atributos do objeto de uma classe quando o objeto é criado.
 
-6- 
+6- Métodos de instancia inicializam as propriedades do objeto e prepará para uso, enquanto o método estático garante que somente haverá uma determinado atributo ou
+   método disponível em memória para ser acessado de várias instâncias da mesma classe.
 
+7-
