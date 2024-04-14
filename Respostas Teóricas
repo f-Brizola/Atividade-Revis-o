@@ -1,3 +1,9 @@
 1-  É um modelo de programação onde diversas classes possuem características que definem um objeto na vida real.
 Os Principais fundamentos são: Herança, Encapsulamento, Abstração e Polimorfismo.
 
+2- As vantagens são: Unificação de dados e processos, Consistência entre análise e desenvolvimento, Reutilização do código já implementado, Multidesenvolvimento e Facilidade de manutenção.
+
+3- Atributos de uma classe só devem ser acessados por meio de seus métodos. O estado de um objeto não deve ser acessado diretamente, mas sim por intermédio de métodos de acesso.
+
+4-
+
